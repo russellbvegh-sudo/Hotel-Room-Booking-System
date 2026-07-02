@@ -1,8 +1,8 @@
 /**
  * @name Hotel Room Booking System
- * @author Md. Samiur Rahman (Mukul)
- * @description Hotel Room Booking and Management System Software ~ Developed By Md. Samiur Rahman (Mukul)
- * @copyright ©2023 ― Md. Samiur Rahman (Mukul). All rights reserved.
+ * @author Jose Rosario
+ * @description Hotel Room Booking and Management System Software ~ Developed By Jose Rosario
+ * @copyright ©2023 ― Jose Rosario. All rights reserved.
  * @version v0.0.1
  *
  */
@@ -17,11 +17,11 @@ function Footers() {
         ©2023 Beach Resort — Developed By
         {' '}
         <a
-          href='https://srmukul.com'
+          href='https://github.com/jose-rosario-git'
           rel='noreferrer'
           target='_blank'
         >
-          Md. Samiur Rahman (Mukul)
+          Jose Rosario
         </a>
       </p>
     </footer>

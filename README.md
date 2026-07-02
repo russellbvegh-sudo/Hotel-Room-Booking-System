@@ -1,10 +1,6 @@
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
+![Frontend Screenshot](https://raw.githubusercontent.com/jose-rosario-git/Hotel-Room-Booking-System/main/frontend-screenshot.png)
 
 # 🏖️ Beach Resort | Hotel Room Booking System
 
@@ -281,7 +277,7 @@ PUT  /api/v1/edit-room-review/:review_id    - Edit review
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System.git
+git clone https://github.com/jose-rosario-git/Hotel-Room-Booking-System.git
 cd Hotel-Room-Booking-System
 ```
 
@@ -432,12 +428,10 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-### Md. Samiur Rahman (Mukul)
+### Jose Rosario
 
-- 🌐 Website: [srmukul.com](https://srmukul.com)
-- 📧 Email: [contact@srmukul.com](mailto:contact@srmukul.com)
-- 🐙 GitHub: [@SamiurRahmanMukul](https://github.com/SamiurRahmanMukul)
-- 💼 LinkedIn: [@SamiurRahmanMukul](https://www.linkedin.com/in/SamiurRahmanMukul)
+- 📧 Email: [joselrosario81@gmail.com](mailto:joselrosario81@gmail.com)
+- 🐙 GitHub: [@jose-rosario-git](https://github.com/jose-rosario-git)
 
 ## 🙏 Acknowledgments
 
@@ -453,20 +447,12 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
   <strong>⭐ If you found this project helpful, please give it a star! ⭐</strong>
 </p>
 
-<!-- my social media links -->
+<!-- social media links -->
 
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
+[github-url]: https://github.com/jose-rosario-git
 
 <!-- shield icon links -->
 
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
 <!-- live preview links -->
