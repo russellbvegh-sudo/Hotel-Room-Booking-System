@@ -6,11 +6,11 @@
 
 ## E-R Diagram
 
-![E-R Diagram](https://raw.githubusercontent.com/jose-rosario-git/Hotel-Room-Booking-System/main/breach-resorts-e-r-diagram.drawio.png)
+![E-R Diagram](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/breach-resorts-e-r-diagram.drawio.png)
 
 ## Database Relational Schema
 
-![Database Relational Schema](https://raw.githubusercontent.com/jose-rosario-git/Hotel-Room-Booking-System/main/database-relational-schema.png)
+![Database Relational Schema](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/database-relational-schema.png)
 
 ## Installing Packages
 
@@ -73,9 +73,9 @@ npm install -D @babel/core @babel/preset-env babel-jest
 jest --init // initialize jest for app testing
 ```
 
-<!-- my social media links -->
+<!-- social links -->
 
-[github-url]: https://github.com/jose-rosario-git
+[github-url]: https://github.com/russellbvegh-sudo
 
 <!-- shield icon links -->
 

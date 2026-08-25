@@ -2,6 +2,7 @@
   "name": "hotel-room-booking-system-frontend",
   "version": "v0.0.1",
   "private": true,
+  "author": "Russell Vegh",
   "scripts": {
     "dev": "next dev -p 3034",
     "build": "next build",

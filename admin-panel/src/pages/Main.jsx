@@ -1,8 +1,8 @@
 /**
  * @name Hotel Room Booking System
- * @author Jose Rosario
- * @description Hotel Room Booking and Management System Software ~ Developed By Jose Rosario
- * @copyright ©2023 ― Jose Rosario. All rights reserved.
+ * @author Russell Vegh
+ * @description Hotel Room Booking and Management System Software ~ Developed By Russell Vegh
+ * @copyright ©2023 ― Russell Vegh. All rights reserved.
  * @version v0.0.1
  *
  */
@@ -237,11 +237,11 @@ function Main() {
           {' '}
           <a
             className='text-color-primary hover:text-color-secondary'
-            href='https://github.com/jose-rosario-git'
+            href='https://github.com/russellbvegh-sudo'
             target='_blank'
             rel='noreferrer'
           >
-            Jose Rosario
+            Russell Vegh
           </a>
         </Footer>
       </Layout>

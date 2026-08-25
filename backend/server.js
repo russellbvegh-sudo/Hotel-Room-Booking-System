@@ -1,8 +1,8 @@
 /**
  * @name Hotel Room Booking System
- * @author Jose Rosario
- * @description Hotel Room Booking and Management System Software ~ Developed By Jose Rosario
- * @copyright ©2023 ― Jose Rosario. All rights reserved.
+ * @author Russell Vegh
+ * @description Hotel Room Booking and Management System Software ~ Developed By Russell Vegh
+ * @copyright ©2023 ― Russell Vegh. All rights reserved.
  * @version v0.0.1
  *
  */
@@ -10,7 +10,7 @@
 /*
  * Name: Hotel Room Booking System ~ Backed
  * Description: Build an Hotel Room Booking System using node.js, express.js application from the scratch
- * Author: Jose Rosario
+ * Author: Russell Vegh
  * Last Modified: 26/02/2023
  * Version: v0.0.1
  *

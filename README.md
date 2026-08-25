@@ -1,6 +1,6 @@
 [![Github][github-shield]][github-url]
 
-![Frontend Screenshot](https://raw.githubusercontent.com/jose-rosario-git/Hotel-Room-Booking-System/main/frontend-screenshot.png)
+![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
 
 # 🏖️ Beach Resort | Hotel Room Booking System
 
@@ -277,7 +277,7 @@ PUT  /api/v1/edit-room-review/:review_id    - Edit review
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jose-rosario-git/Hotel-Room-Booking-System.git
+git clone https://github.com/russellbvegh-sudo/Hotel-Room-Booking-System.git
 cd Hotel-Room-Booking-System
 ```
 
@@ -428,10 +428,10 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-### Jose Rosario
+### Russell Vegh
 
-- 📧 Email: [joselrosario81@gmail.com](mailto:joselrosario81@gmail.com)
-- 🐙 GitHub: [@jose-rosario-git](https://github.com/jose-rosario-git)
+- 📧 Email: [russellbvegh@gmail.com](mailto:russellbvegh@gmail.com)
+- 🐙 GitHub: [@russellbvegh-sudo](https://github.com/russellbvegh-sudo)
 
 ## 🙏 Acknowledgments
 
@@ -447,9 +447,9 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
   <strong>⭐ If you found this project helpful, please give it a star! ⭐</strong>
 </p>
 
-<!-- social media links -->
+<!-- social links -->
 
-[github-url]: https://github.com/jose-rosario-git
+[github-url]: https://github.com/russellbvegh-sudo
 
 <!-- shield icon links -->
 

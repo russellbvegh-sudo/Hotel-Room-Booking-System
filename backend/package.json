@@ -1,7 +1,7 @@
 {
   "name": "hotel-room-booking-system-backed",
   "version": "v0.0.1",
-  "description": "Hotel Room Booking System — a Node.js and Express.js application by Jose Rosario",
+  "description": "Build an Hotel Room Booking System for node.js, express.js application from the scratch by Russell Vegh",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jose-rosario-git/Hotel-Room-Booking-System.git"
+    "url": "git+https://github.com/russellbvegh-sudo/Hotel-Room-Booking-System.git"
   },
-  "author": "Jose Rosario <joselrosario81@gmail.com>",
+  "author": "Russell Vegh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jose-rosario-git/Hotel-Room-Booking-System/issues"
+    "url": "https://github.com/russellbvegh-sudo/Hotel-Room-Booking-System/issues"
   },
-  "homepage": "https://github.com/jose-rosario-git/Hotel-Room-Booking-System#readme",
+  "homepage": "https://github.com/russellbvegh-sudo/Hotel-Room-Booking-System#readme",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
     "app-root-path": "^3.1.0",
